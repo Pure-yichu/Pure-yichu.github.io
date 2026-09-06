@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-09-05-obsidian_test.md",
+                "file": "2026-09-06-obsidian_test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-05-obsidian_test"
+              "title": "2026-09-06-obsidian_test"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-09-05-obsidian_test.md",
+                "file": "2026-09-06-obsidian_test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-09-05-obsidian_test.md",
+                "file": "2026-09-06-obsidian_test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-09-05-obsidian_test.md",
+                "file": "2026-09-06-obsidian_test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,6 +202,6 @@
   "active": "9c2e4f36ed0f3904",
   "lastOpenFiles": [
     "2026-09-05-新的开始.md",
-    "2026-09-05-obsidian_test.md"
+    "2026-09-06-obsidian_test.md"
   ]
 }
