@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: C2vv # the main title
 
-tagline: When desire burns fiercely enough, laziness will step aside. # it will display as the subtitle
+tagline: Fake it until you make it. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   just always do
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: C2vv
-  email: example@domain.com # change to your email address
+  email: 1960024133@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
