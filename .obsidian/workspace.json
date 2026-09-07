@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-09-07-newstart.md",
+                "file": "_posts/2026-09-07-能力图谱.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-07-newstart"
+              "title": "2026-09-07-能力图谱"
             }
           }
         ]
@@ -201,8 +201,10 @@
   },
   "active": "44192fac286c3b69",
   "lastOpenFiles": [
+    "_posts/2026-09-02-newstart.md",
+    "_posts/2026-09-07-能力图谱.md",
     "2026-09-07-能力图谱.md",
-    "2026-09-07-newstart.md",
+    "2026-09-02-newstart.md",
     "新建文件夹",
     "2026-09-06-是新的开始吧.md",
     "Pasted image 20260906154807.png",
