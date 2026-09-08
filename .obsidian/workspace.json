@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2026-09-07-能力图谱.md",
+                "file": "_posts/2026-09-08-Jlink下载原理及运用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-07-能力图谱"
+              "title": "2026-09-08-Jlink下载原理及运用"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "670bff7ab46ecb0c",
@@ -201,10 +202,15 @@
   },
   "active": "44192fac286c3b69",
   "lastOpenFiles": [
+    "assets/img/Pasted image 20260908220223.png",
+    "assets/img/Pasted image 20260908215909.png",
+    "assets/img/Pasted image 20260908213305.png",
+    "_posts/2026-09-07-能力图谱.md",
+    "_posts/2026-09-08-Jlink下载原理及运用.md",
+    "_tabs/about.md",
     "assets/img/Pasted image 20260907190336.png",
     "assets/img/Pasted image 20260907185017.png",
     "assets/img/Pasted image 20260907183857.png",
-    "_posts/2026-09-07-能力图谱.md",
     "CLAUDE.md.tmp.38400.2c97b482fa59",
     "CLAUDE.md.tmp.38400.93baf9b4a0d2",
     "_posts/2026-09-02-newstart.md",
