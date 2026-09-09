@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "_posts/2026-09-09-2027届嵌入式秋招.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-09-2027届嵌入式秋招"
+            }
+          },
+          {
+            "id": "1c49db49c7505ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "_posts/2026-09-08-Jlink下载原理及运用.md",
                 "mode": "source",
                 "source": false
@@ -83,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "670bff7ab46ecb0c",
@@ -202,11 +215,12 @@
   },
   "active": "44192fac286c3b69",
   "lastOpenFiles": [
+    "_posts/2026-09-08-Jlink下载原理及运用.md",
+    "_posts/2026-09-09-2027届嵌入式秋招.md",
     "assets/img/Pasted image 20260908220223.png",
     "assets/img/Pasted image 20260908215909.png",
     "assets/img/Pasted image 20260908213305.png",
     "_posts/2026-09-07-能力图谱.md",
-    "_posts/2026-09-08-Jlink下载原理及运用.md",
     "_tabs/about.md",
     "assets/img/Pasted image 20260907190336.png",
     "assets/img/Pasted image 20260907185017.png",
